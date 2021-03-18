@@ -1,0 +1,7 @@
+E:\3418_2\Menmbuat ClassObjectTaxi\Menmbuat ClassObjectTaxi\obj\Debug\Menmbuat ClassObjectTaxi.csprojAssemblyReference.cache
+E:\3418_2\Menmbuat ClassObjectTaxi\Menmbuat ClassObjectTaxi\obj\Debug\Menmbuat ClassObjectTaxi.csproj.CoreCompileInputs.cache
+E:\3418_2\Menmbuat ClassObjectTaxi\Menmbuat ClassObjectTaxi\bin\Debug\Menmbuat ClassObjectTaxi.exe.config
+E:\3418_2\Menmbuat ClassObjectTaxi\Menmbuat ClassObjectTaxi\bin\Debug\Menmbuat ClassObjectTaxi.exe
+E:\3418_2\Menmbuat ClassObjectTaxi\Menmbuat ClassObjectTaxi\bin\Debug\Menmbuat ClassObjectTaxi.pdb
+E:\3418_2\Menmbuat ClassObjectTaxi\Menmbuat ClassObjectTaxi\obj\Debug\Menmbuat ClassObjectTaxi.exe
+E:\3418_2\Menmbuat ClassObjectTaxi\Menmbuat ClassObjectTaxi\obj\Debug\Menmbuat ClassObjectTaxi.pdb
